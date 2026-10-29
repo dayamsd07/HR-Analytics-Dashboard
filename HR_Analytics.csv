@@ -1,0 +1,17 @@
+
+EmployeeID,Department,JobRole,Age,Gender,MonthlySalary,YearsAtCompany,Attrition,Overtime
+1001,Sales,Sales Executive,29,Male,42000,3,No,Yes
+1002,Research & Development,Research Scientist,34,Female,58000,6,No,No
+1003,Human Resources,HR Specialist,41,Female,51000,10,Yes,No
+1004,Sales,Sales Representative,25,Male,32000,2,Yes,Yes
+1005,Research & Development,Laboratory Technician,38,Male,47000,8,No,No
+1006,Sales,Sales Executive,31,Female,46000,5,No,No
+1007,Research & Development,Manufacturing Director,45,Male,72000,15,No,No
+1008,Human Resources,HR Specialist,27,Male,39000,3,No,Yes
+1009,Sales,Manager,39,Female,85000,12,No,No
+1010,Research & Development,Research Scientist,30,Female,54000,4,Yes,Yes
+1011,Sales,Sales Representative,24,Female,30000,1,No,Yes
+1012,Human Resources,Manager,48,Male,91000,20,No,No
+1013,Research & Development,Laboratory Technician,36,Female,45000,7,No,No
+1014,Sales,Sales Executive,33,Male,49000,6,Yes,No
+1015,Research & Development,Research Scientist,28,Male,52000,3,No,Yes
