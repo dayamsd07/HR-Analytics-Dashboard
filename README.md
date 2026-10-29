@@ -1,31 +1,31 @@
-#HR Analytics Dashboard — Power BI
+HR Analytics Dashboard — Power BI
 
-#Project Overview
-  *This project presents an HR Analytics Dashboard created using Microsoft Power BI and a sample employee dataset.
+Project Overview
 
-#Dashboard Features
+This project presents an HR Analytics Dashboard created using Microsoft Power BI and a sample employee dataset.
 
-  *Employee count by department
+Dashboard Features
 
-  *Gender distribution
+Employee count by department
 
-  *Employee count by age group
+Gender distribution
 
-  *Employee attrition analysis
+Employee count by age group
 
- *Average salary by department
+Employee attrition analysis
 
+Average salary by department
 
-#Tools Used
+Tools Used
 
-  *Microsoft Power BI
+Microsoft Power BI
 
-  *Microsoft Excel / CSV
+Microsoft Excel / CSV
 
-#Dataset
+Dataset
 
-  *A small sample employee dataset containing fictional employee records.
+A small sample employee dataset containing fictional employee records.
 
-#Project Purpose
+Project Purpose
 
- *To practice data cleaning, data analysis, and data visualization using Power BI.
+To practice data cleaning, data analysis, and data visualization using Power BI.
